@@ -65,7 +65,7 @@
 }
 
 .input:focus-within {
-  border: 1.5px solid #b8952e;
+  border: 1.5px solid #4682B4;
 }
 
 .button {
@@ -73,7 +73,7 @@
   border-radius: 0.5rem;
   border: none;
   font-size: 0.87rem;
-  background-color: #b8952e;
+  background-color: #4682B4;
   color: #050505;
   text-transform: uppercase;
   font-weight: 700;
@@ -84,7 +84,7 @@
 }
 
 .button:hover {
-  background-color: #dbc170;
+  background-color: #559bd4;
 }
 
 ::-webkit-calendar-picker-indicator {
@@ -137,13 +137,13 @@
 }
 
 .hour-selected {
-  border: 1px solid #b8952e;
-  color: #b8952e;
+  border: 1px solid #4682B4;
+  color: #4682B4;
 }
 
 .hour:not(.hour-unavailable):hover {
-  border: 1px solid #b8952e;
-  color: #b8952e;
+  border: 1px solid #4682B4;
+  color: #4682B4;
 }
 
 @media (max-width: 1100px) {
